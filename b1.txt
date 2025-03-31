@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 the is branch one's file
+=======
+the is branch one  file
+>>>>>>> new
