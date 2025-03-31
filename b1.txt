@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-the is branch one file
-=======
-the is branch one  file
->>>>>>> new
+the is file is empty
