@@ -1,1 +1,1 @@
-"this file will be created beacause to dispaly the git options "
+"this file is used to how to push the code from visual studio to git "
